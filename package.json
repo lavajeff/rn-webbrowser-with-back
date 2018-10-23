@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/louiskhenghao/rn-webbrowser-with-back#readme",
   "dependencies": {
+    "react-native": "^0.57.3",
     "react-native-loading-spinner-overlay": "^0.5.2"
   }
 }
